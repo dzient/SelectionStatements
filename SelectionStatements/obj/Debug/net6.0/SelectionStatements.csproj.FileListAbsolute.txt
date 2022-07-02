@@ -1,0 +1,15 @@
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\bin\Debug\net6.0\SelectionStatements.exe
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\bin\Debug\net6.0\SelectionStatements.deps.json
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\bin\Debug\net6.0\SelectionStatements.runtimeconfig.json
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\bin\Debug\net6.0\SelectionStatements.dll
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\bin\Debug\net6.0\SelectionStatements.pdb
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.AssemblyReference.cache
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfoInputs.cache
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.AssemblyInfo.cs
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.csproj.CoreCompileInputs.cache
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.dll
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\refint\SelectionStatements.dll
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.pdb
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\SelectionStatements.genruntimeconfig.cache
+C:\Users\kc2us\source\repos\SelectionStatements\SelectionStatements\obj\Debug\net6.0\ref\SelectionStatements.dll
